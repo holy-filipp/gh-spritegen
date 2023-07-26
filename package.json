@@ -1,0 +1,19 @@
+{
+  "name": "gh-spritegen",
+  "version": "1.0.0",
+  "description": "Spritesheet generator for GloriousHUD",
+  "main": "./bin/index.js",
+  "bin": {
+    "spritegen": "./bin/index.js"
+  },
+  "author": "Filipp",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "slash": "^5.1.0",
+    "yargs": "^17.7.2",
+    "sharpsheet": "^0.0.8"
+  },
+  "type": "module"
+}
