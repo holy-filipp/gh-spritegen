@@ -1,6 +1,6 @@
 {
   "name": "gh-spritegen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spritesheet generator for GloriousHUD",
   "main": "./bin/index.js",
   "bin": {
@@ -15,5 +15,9 @@
     "yargs": "^17.7.2",
     "sharpsheet": "^0.0.8"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/holy-filipp/gh-spritegen.git",
+    "type": "git"
+  }
 }
